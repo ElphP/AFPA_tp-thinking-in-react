@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AFPA_tp-thinking-in-react/static/css/main.e6c13ad2.css",
+    "main.js": "/AFPA_tp-thinking-in-react/static/js/main.0db5fa42.js",
+    "static/js/787.e3d4bb4f.chunk.js": "/AFPA_tp-thinking-in-react/static/js/787.e3d4bb4f.chunk.js",
+    "index.html": "/AFPA_tp-thinking-in-react/index.html",
+    "main.e6c13ad2.css.map": "/AFPA_tp-thinking-in-react/static/css/main.e6c13ad2.css.map",
+    "main.0db5fa42.js.map": "/AFPA_tp-thinking-in-react/static/js/main.0db5fa42.js.map",
+    "787.e3d4bb4f.chunk.js.map": "/AFPA_tp-thinking-in-react/static/js/787.e3d4bb4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0db5fa42.js"
+  ]
+}
